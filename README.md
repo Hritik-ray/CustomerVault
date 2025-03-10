@@ -27,6 +27,7 @@ details. It utilizes serialization to save customer records in a file, ensuring 
 
 CustomerVault/
 │── src/
+
 │   ├── Main.java          # Main entry point of the program
 
 │   ├── Customer.java      # Customer class (data model)

@@ -29,15 +29,15 @@ CustomerVault/
 
 │── src/
 
-│   ├── Main.java          # Main entry point of the program
+│   ├── Main.java                   # Main entry point of the program
 
-│   ├── Customer.java      # Customer class (data model)
+│   ├── Customer.java               # Customer class (data model)
 
-│   ├── FileManager.java   # Handles file operations (saving & retrieving customers)
+│   ├── FileManager.java            # Handles file operations (saving & retrieving customers)
 
-│── customerdata.dat       # Serialized customer data (generated after running the program)
+│── customerdata.dat                # Serialized customer data (generated after running the program)
 
-│── README.md              # Project documentation
+│── README.md                       # Project documentation
 
 
 

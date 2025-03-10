@@ -72,8 +72,11 @@ java src.Main
 
 ## 🛠 Technologies Used
 Java
+
 File Handling (FileInputStream, FileOutputStream)
+
 Object Serialization (ObjectOutputStream, ObjectInputStream)
+
 Collections (ArrayList)
 
 

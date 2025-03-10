@@ -14,8 +14,11 @@ details. It utilizes serialization to save customer records in a file, ensuring 
 ## ⚙️ Features
 
 ✔️ Add new customers with an automatically generated customer ID
+
 ✔️ Search for customers by name
+
 ✔️ Store customer data using serialization (ObjectOutputStream & ObjectInputStream)
+
 ✔️ Simple CLI-based interface
 
 
@@ -43,10 +46,12 @@ CustomerVault/
 1️⃣ Clone the Repository
 
 git clone https://github.com/Hritik-ray/CustomerVault.git
+
 cd CustomerVault
 
 2️⃣ Compile and Run the Program
 javac src/*.java  
+
 java src.Main
 
 
